@@ -1,2 +1,2 @@
 #BAM track example (you must complete the missing parts)
-track type=bam bigDataUrl=http:// name=AP-GL-139 db=hg18 chromosomes=chrX
+track type=bam bigDataUrl=http://https://github.com/ahanden/BAM/raw/main/AP-GL-139.bam name=AP-GL-139 db=hg18 chromosomes=chrX
